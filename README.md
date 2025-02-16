@@ -1,3 +1,2 @@
-# MyProjects
-
-This project contains the projects of Joshua Sutanto :)
+# Data Science Exploration
+This project contains the data science learning and projects of Joshua Sutanto :)
